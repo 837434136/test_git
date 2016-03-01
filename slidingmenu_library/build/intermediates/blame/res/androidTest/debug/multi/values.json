@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "D:\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 42,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "D:\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 42,
+                        "endOffset": 941
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\java\\Desktop\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 42,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\Users\\java\\Desktop\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 42,
+                        "endOffset": 941
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\As_projects\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 42,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "D:\\As_projects\\Csh_cspebank\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 42,
+                        "endOffset": 941
+                    }
+                }
+            }
+        ]
+    }
+]

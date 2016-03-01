@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/common_ll_progress_view"
+    
+	android:layout_width="match_parent"   
+	android:layout_height="match_parent"  
+	android:minHeight="65dp"  
+	android:layout_marginLeft="@dimen/progress_dialog_margin"
+	android:layout_marginRight="@dimen/progress_dialog_margin"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:background="@color/white_x" >
+    
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_vertical"
+	    android:orientation="horizontal"
+	    android:paddingLeft="20dp">   
+	     
+	    <ImageView 
+	        android:id="@+id/common_progress_dialog"
+			android:layout_width="28dp"
+			android:layout_height="28dp"
+			android:src="@mipmap/progress_loading"/>
+		    
+	</LinearLayout>
+			
+	<LinearLayout 
+	    android:id="@+id/common_ll_progress_dialog_text"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="16dp"
+	    android:layout_gravity="center_vertical"
+	    android:orientation="horizontal"
+	    android:paddingRight="20dp">
+	        
+		<TextView 
+			android:id="@+id/common_tv_progress_dialog"
+		 	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="加载中..."
+			android:textSize="@dimen/second_title_size"
+			android:textColor="@color/black_xx"/>
+			
+	    </LinearLayout>     
+</LinearLayout>

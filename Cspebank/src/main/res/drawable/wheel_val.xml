@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+    Android Wheel Control.
+    http://android-devblog.blogspot.com/2010/05/wheel-ui-contol.html
+   
+    Copyright 2010 Yuri Kanivets
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<!-- 设置滚轮中间线条的颜色 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:bottom="1dip" android:right="-36dp"  android:left="-36dp" android:top="1dip"> 
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 	<gradient -->
+<!-- 		android:startColor="@android:color/" -->
+<!-- 		android:centerColor="@android:color/black" -->
+<!-- 		android:endColor="@android:color/black" -->
+<!-- 		android:angle="0" />背景颜色渐变 ,是渐变角度，必须为45的整数倍。  -->
+
+<!--     背景色 -->
+<!-- <solid  -->
+<!--     android:color="@color/scheduleWhite"/>  -->
+
+
+<!-- 	<stroke android:width="1dp" android:color="@color/blue" />描边，width是边得宽度，color是颜色   -->
+	
+	
+</shape>
+</item>
+</layer-list>

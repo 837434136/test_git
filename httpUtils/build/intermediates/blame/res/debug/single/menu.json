@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\As_projects\\Csh_cspebank\\httpUtils\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\As_projects\\Csh_cspebank\\httpUtils\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\java\\Desktop\\Csh_cspebank\\httpUtils\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\java\\Desktop\\Csh_cspebank\\httpUtils\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Csh_cspebank\\httpUtils\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Csh_cspebank\\httpUtils\\src\\main\\res\\menu\\main.xml"
+    }
+]

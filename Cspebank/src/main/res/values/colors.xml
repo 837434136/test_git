@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- home -->
+    <color name="white">#ffffff</color>
+    <color name="white_x">#f7f7f7</color>
+    <color name="white_xx">#e5e5e5</color>
+    <color name="white_xxx">#b2b2b2</color>
+    <color name="white_xxxx">#959595</color>
+    <color name="black">#000000</color>
+    <color name="black_x">#4c4c4c</color>
+    <color name="black_xx">#7f7f7f</color>
+
+
+    <!-- 红色 -->
+    <color name="red">#ff0000</color>
+    <!-- 橙色 -->
+    <color name="orange">#ffa500</color>
+    <!-- 黄色 -->
+    <color name="yellow">#ffff00</color>
+    <!-- 绿色 -->
+    <color name="green">#7cfc00</color>
+    <!-- 蓝色 -->
+    <color name="blue">#4571d5</color>
+    <!-- 深蓝-->
+    <color name="blue_x">#4551d5</color>
+    <!-- 紫色 -->
+    <color name="purple">#9370DB</color>
+    <!-- 褐色 -->
+    <color name="brown">#a0522d</color>
+    <!-- 透明红 -->
+    <color name="transparent_red">#ddff5654</color>
+    <!-- 灰色-->
+    <color name="gray">#B2B2B2</color>
+
+</resources>

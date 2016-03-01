@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:state_pressed="true">
+    <shape>
+        <corners android:radius="@dimen/login_edit_content_padding"></corners>
+        <solid android:color="@color/blue_x"></solid>
+    </shape>
+</item>
+
+<item android:state_pressed="false">
+    <shape>
+        <corners android:radius="@dimen/login_edit_content_padding"/>
+        <solid android:color="@color/blue"/>
+    </shape>
+</item>
+</selector>
